@@ -2,4 +2,4 @@ def reverse_string(word: str) -> str:
     return word[::-1]
 
 
-print(reverse_string("seth"))
+print(reverse_string("ernest"))
